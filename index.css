@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: dodgerblue;
+  background-color: grey;
+  font-size: large;
+}
+
+h1 {
+  font-size: larger;
+  font-weight: bold;
+}
+
+
+input {
+  height: 100px;
+  width: 500px;
+}
